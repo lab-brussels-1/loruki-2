@@ -14,7 +14,7 @@ Project deadline is one week.
   - technologies (sometimes a client will tell you what to use)
 -->
 
-### Internal: Involuntary
+## Internal: Involuntary
 
 ### Technologies
 
@@ -29,7 +29,7 @@ Project deadline is one week.
   - the amount of time available to work on the project
 -->
 
-### Internal: Voluntary
+## Internal: Voluntary
 
 ### Availability
 
