@@ -54,18 +54,6 @@ will complete the user experience, but are not necessary:
   - [] Have a footer on all pages with contact infos for social medias and
     GitHub
 
-### Home page
-
--
-
-### Features
-
-- - []
-
-### Docs
-
--
-
 ## Could-Haves
 
 would be really cool ... if there's time:
