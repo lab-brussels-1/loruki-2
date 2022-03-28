@@ -1,10 +1,6 @@
 {
   "language": "en",
-  "words": [
-    "Heverlee",
-    "Iyob",
-    "Loruki"
-  ],
+  "words": ["Heverlee", "Iyob", "Loruki"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
