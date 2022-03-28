@@ -8,18 +8,17 @@
 
 ## Communication Schedule
 
-| Day       |   How   | The topic of discussion                 |
-| --------- | :-----: | --------------------------------------- |
-| Monday    | Zoom | Discuss what can be improved in planning |
-| Tuesday | Zoom | Final review of planning and division of development strategy             |
-| Wednesday | Zoom | Updates on must-haves progress             |
-
+| Day       | How  | The topic of discussion                                       |
+| --------- | :--: | ------------------------------------------------------------- |
+| Monday    | Zoom | Discuss what can be improved in planning                      |
+| Tuesday   | Zoom | Final review of planning and division of development strategy |
+| Wednesday | Zoom | Updates on must-haves progress                                |
 
 <!-- ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**: 
+- **Issues**:
 - **Pull Requests**:
 - **GitHub Discussions**: For review
 - **Slack/Discord**: Discord
