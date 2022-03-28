@@ -49,16 +49,22 @@ are necessary for basic usability:
 
 will complete the user experience, but are not necessary:
 
-### Home page
-
-### Features
-
-### Docs
-
 - As a front-end developer i want to be able to contact Loruki on social media
   and github to be able to ask questions and see any updates
   - [] Have a footer on all pages with contact infos for social medias and
     GitHub
+
+### Home page
+
+-
+
+### Features
+
+- - []
+
+### Docs
+
+-
 
 ## Could-Haves
 
