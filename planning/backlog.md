@@ -20,11 +20,6 @@ are necessary for basic usability:
 
   - [ ] There is centered content that explains what Loruki can be used for
 
-- As a front-end-developer I want to know how i can install Loruki to use it for
-  my projects
-
-  - [ ] There should be a terminal command on how to install Loruki
-
 - As a front-end-developer i want to know what languages are supported by Loruki
   to determine if it can be used for my projects
 
@@ -33,8 +28,14 @@ are necessary for basic usability:
 - As a front-end developer i want to try out the demo before selecting Loruki as
   the suitable service provider for my company to ensure that it's a better
   deployment service than others
+
   - [ ] There should be a form that will take the information of a user and send
         her a demo version of Loruki
+
+- As a front-end developer i want to be able to contact Loruki on social media
+  and github to be able to ask questions and see any updates
+  - [ ] Have a footer on all pages with contact infos for social medias and
+        GitHub
 
 ### Features
 
@@ -49,10 +50,16 @@ are necessary for basic usability:
 
 will complete the user experience, but are not necessary:
 
-- As a front-end developer i want to be able to contact Loruki on social media
-  and github to be able to ask questions and see any updates
-  - [ ] Have a footer on all pages with contact infos for social medias and
-        GitHub
+- As a front-end-developer I want to know how i can install Loruki to use it for
+  my projects
+
+  - [ ] There should be a terminal command on how to install Loruki
+
+- As a front-end developer i want to be able to open and navigate through this
+  website on my mobile phone or tablet to quickly find documentation if i don't
+  happen to have a laptop at hand
+
+- [ ] make the design of the website responsive
 
 ## Could-Haves
 
