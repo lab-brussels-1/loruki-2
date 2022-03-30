@@ -7,12 +7,12 @@
 
 - [ ] There is a prominent title of the website at the top
 
-### HTML
+### Title: HTML
 
 - Title of Loruki website in the header
-- Loruki logo at the very top of the page in body
+- Loruki paragraph at the very top of the page in body
 
-### CSS
+### Title: CSS
 
 - Style the logo to the left side with normal size easily visible against the
   background
@@ -24,11 +24,11 @@
 
 - [ ] There is centered content that explains what Loruki can be used for
 
-### HTML
+### Content: HTML
 
 - a few paragraphs on what service Loruki provides
 
-### CSS
+### Content: CSS
 
 - position it to one side of the page
 - Have a larger text to describe it in a few words and then paragraphs in
@@ -43,12 +43,12 @@
 - [ ] There should be a form that will take the information of a user and send
       her a demo version of Loruki
 
-### HTML
+### Form: HTML
 
 - Have a div with Request Demo form in with Name, Company Mail and Email inputs
   with a button to send
 
-### CSS
+### Form: CSS
 
 - change the background color of the div to make it appear as a box for the form
 - position it to the other side of content
@@ -60,12 +60,12 @@
 
 - [ ] Clearly shows all the supported languages on the home-page
 
-### HTML
+### Languages: HTML
 
 - headers with text of Supported Languages
 - headers wrapped in divs and all the divs wrapped in another div as container
 
-### CSS
+### Languages: CSS
 
 - center the text in headers and make the container show it's divs in a row
 - center the container itself

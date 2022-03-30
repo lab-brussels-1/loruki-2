@@ -8,7 +8,7 @@ develop each story by drawing out your [Story Sequencing](#story-sequencing).
 
 are necessary for basic usability:
 
-### Home page
+### Must-haves for Home page
 
 - As a front-end developer I want to see the title of the website immediately so
   that I know that I'm on the right website
@@ -37,29 +37,31 @@ are necessary for basic usability:
   - [ ] Have a footer on all pages with contact infos for social medias and
         GitHub
 
-### Features
+### Must-haves for Features
 
 - As a photographer i want to know that the images on my website will retain
   it's quality so my work looks good
   - [ ] Have a features page that will explain the benefits of Loruki over other
         deployment service
 
-### Docs
+### Must-haves for Docs
 
 ## Should-Haves
 
 will complete the user experience, but are not necessary:
 
-- As a front-end-developer I want to know how i can install Loruki to use it for
-  my projects
-
-  - [ ] There should be a terminal command on how to install Loruki
-
 - As a front-end developer i want to be able to open and navigate through this
   website on my mobile phone or tablet to quickly find documentation if i don't
   happen to have a laptop at hand
 
-- [ ] make the design of the website responsive
+- [ ] make the design of every page responsive
+
+### Should-haves for Main page
+
+- As a front-end-developer I want to know how i can install Loruki to use it for
+  my projects
+
+  - [ ] There should be a terminal command on how to install Loruki
 
 ## Could-Haves
 
