@@ -11,6 +11,7 @@
 
 - Title of Loruki website in the header
 - Loruki paragraph at the very top of the page in body
+- everything inside a div to make a navbar
 
 ### Title: CSS
 
@@ -69,3 +70,25 @@
 
 - center the text in headers and make the container show it's divs in a row
 - center the container itself
+
+## Footer
+
+> As a front-end developer i want to know when and who created the website and
+> be able to contact Loruki on social media and github to be able to ask
+> questions and see any updates
+
+- [ ] Have a footer on all pages with contact infos for social medias and GitHub
+      as well info when and by who the website was created
+
+### Footer: HTML
+
+- copyright symbol in paragraph with year of creation
+- header of who created it
+- links to social media pages of Loruki
+- list of links to other pages such as features and docs
+
+### Footer: CSS
+
+- copyright and header positioned at the very bottom
+- links to other pages on one side
+- links to social media on the other side
