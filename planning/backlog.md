@@ -8,7 +8,7 @@ develop each story by drawing out your [Story Sequencing](#story-sequencing).
 
 are necessary for basic usability:
 
-### Home page
+### Must-haves for Home page
 
 - As a front-end developer I want to see the title of the website immediately so
   that I know that I'm on the right website
@@ -20,11 +20,6 @@ are necessary for basic usability:
 
   - [ ] There is centered content that explains what Loruki can be used for
 
-- As a front-end-developer I want to know how i can install Loruki to use it for
-  my projects
-
-  - [ ] There should be a terminal command on how to install Loruki
-
 - As a front-end-developer i want to know what languages are supported by Loruki
   to determine if it can be used for my projects
 
@@ -33,26 +28,40 @@ are necessary for basic usability:
 - As a front-end developer i want to try out the demo before selecting Loruki as
   the suitable service provider for my company to ensure that it's a better
   deployment service than others
+
   - [ ] There should be a form that will take the information of a user and send
         her a demo version of Loruki
 
-### Features
+- As a front-end developer i want to be able to contact Loruki on social media
+  and github to be able to ask questions and see any updates
+  - [ ] Have a footer on all pages with contact infos for social medias and
+        GitHub
+
+### Must-haves for Features
 
 - As a photographer i want to know that the images on my website will retain
   it's quality so my work looks good
   - [ ] Have a features page that will explain the benefits of Loruki over other
         deployment service
 
-### Docs
+### Must-haves for Docs
 
 ## Should-Haves
 
 will complete the user experience, but are not necessary:
 
-- As a front-end developer i want to be able to contact Loruki on social media
-  and github to be able to ask questions and see any updates
-  - [ ] Have a footer on all pages with contact infos for social medias and
-        GitHub
+- As a front-end developer i want to be able to open and navigate through this
+  website on my mobile phone or tablet to quickly find documentation if i don't
+  happen to have a laptop at hand
+
+- [ ] make the design of every page responsive
+
+### Should-haves for Main page
+
+- As a front-end-developer I want to know how i can install Loruki to use it for
+  my projects
+
+  - [ ] There should be a terminal command on how to install Loruki
 
 ## Could-Haves
 
