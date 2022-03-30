@@ -61,7 +61,7 @@ img {
   border-bottom: 2px #fff solid;
 }
 
-.navbar .flex {
+.navbar.flex {
   justify-content: space-between;
 }
 
@@ -81,7 +81,7 @@ img {
   margin: 20px 0;
 }
 
-.showcase .grid {
+.showcase.grid {
   overflow: visible;
   grid-template-columns: 55% auto;
   gap: 30px;
