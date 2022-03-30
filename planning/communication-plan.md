@@ -8,11 +8,13 @@
 
 ## Communication Schedule
 
-| Day       | How  | The topic of discussion                                       |
-| --------- | :--: | ------------------------------------------------------------- |
-| Monday    | Zoom | Discuss what can be improved in planning                      |
-| Tuesday   | Zoom | Final review of planning and division of development strategy |
-| Wednesday | Zoom | Updates on must-haves progress                                |
+| Day       |      How      | The topic of discussion                                                            |
+| --------- | :-----------: | ---------------------------------------------------------------------------------- |
+| Monday    |     Zoom      | Discuss what can be improved in planning                                           |
+| Tuesday   |     Zoom      | Final review of planning and division of development strategy                      |
+| Wednesday |     Zoom      | Updates on must-haves progress                                                     |
+| Thursday  |     Zoom      | Review of development-strategy and updates for should-haves and could-haves issues |
+| Friday    | Github Issues | Animations                                                                         |
 
 <!-- ## Communication Channels
 
