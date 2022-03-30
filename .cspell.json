@@ -1,6 +1,14 @@
 {
   "language": "en",
-  "words": ["Heverlee", "Iyob", "Loruki"],
+  "words": [
+    "Haider",
+    "Heverlee",
+    "Iyob",
+    "Kaveh",
+    "Loruki",
+    "Shewit",
+    "Traversy"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",
