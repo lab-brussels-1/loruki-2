@@ -61,7 +61,7 @@ img {
   border-bottom: 2px #fff solid;
 }
 
-.navbar.flex {
+.navbar .flex {
   justify-content: space-between;
 }
 
@@ -81,14 +81,10 @@ img {
   margin: 20px 0;
 }
 
-.showcase.grid {
+.showcase .grid {
   overflow: visible;
   grid-template-columns: 55% auto;
   gap: 30px;
-}
-
-.showcase-text {
-  animation: slideInFromLeft 1s ease-in;
 }
 
 .showcase-form {
@@ -99,7 +95,6 @@ img {
   padding: 40px;
   z-index: 100;
   justify-self: flex-end;
-  animation: slideInFromRight 1s ease-in;
 }
 
 .showcase-form .form-control {
