@@ -40,6 +40,22 @@ img {
   width: 100%;
 }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
 /* navbar */
 .navbar {
   background-color: var(--primary-color);
@@ -163,24 +179,4 @@ img {
 
 .btn:hover {
   transform: scale(0.98);
-}
-
-.flex {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
-  justify-content: center;
-  align-items: center;
-  height: 100%;
-}
-=======
-.navbar.flex {
-  justify-content: space-between;
 }
