@@ -180,3 +180,7 @@ img {
   align-items: center;
   height: 100%;
 }
+=======
+.navbar.flex {
+  justify-content: space-between;
+}

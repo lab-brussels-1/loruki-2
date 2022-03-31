@@ -20,7 +20,8 @@ architecture and scaling.
 - **Frustrations**: Iyob feels it is too difficult to organize his photos using
   current cloud storage services. He also has trouble when trying to upload
   multiple contents at the same time. He finds it frustrating to share several
-  pictures at the same time.
+  pictures at the same time. He also wants to deploy his website so it loads
+  quickly while also maintaining the high quality resolution of his pictures
 - **Scenario 1**: There is an upcoming exhibition in August in Brussels where
   various photographers present their work. In order to participate in the
   exhibition, photographers have to submit their work in advance. Iyob wants to
