@@ -34,8 +34,14 @@ are necessary for basic usability:
 
 - As a front-end developer i want to be able to contact Loruki on social media
   and github to be able to ask questions and see any updates
+
   - [ ] Have a footer on all pages with contact infos for social medias and
         GitHub
+
+- As a potential new user or as an existed user i want to be able to sign
+  up/sign in to use the features offered in Loruki
+  - [ ] There should be an access (link/button) where user can easily sign up/in
+        from the homepage.
 
 ### Must-haves for Features
 

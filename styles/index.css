@@ -32,12 +32,12 @@ h2 {
   margin: 10px 0;
 }
 
-p {
-  margin: 10px 0;
-}
-
 img {
   width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }
 
 .flex {
@@ -54,6 +54,58 @@ img {
   justify-content: center;
   align-items: center;
   height: 100%;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Margin */
+.my-1 {
+  margin: 1rem 0;
+}
+
+.my-2 {
+  margin: 1.5rem 0;
+}
+
+.my-3 {
+  margin: 2rem 0;
+}
+
+.my-4 {
+  margin: 3rem 0;
+}
+
+.my-5 {
+  margin: 4rem 0;
+}
+
+.m-1 {
+  margin: 1rem;
+}
+
+.m-2 {
+  margin: 1.5rem;
+}
+
+.m-3 {
+  margin: 2rem;
+}
+
+.m-4 {
+  margin: 3rem;
+}
+
+.m-5 {
+  margin: 4rem;
+}
+
+.accounts a {
+  color: #047aed;
+  padding: 10px;
+  margin: 0 5px;
+  font-weight: bold;
 }
 
 /* navbar */
@@ -145,9 +197,41 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
+/* Accounts */
+.accounts {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
+}
+
+.accounts p {
+  text-align: center;
+}
+
+.accounts-heading {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-size: 55px;
+  font-weight: bold;
+}
+
+.accounts .grid h3 {
+  font-size: 15px;
+}
+
+.accounts .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.accounts a:hover {
+  text-decoration: underline;
+  color: grey;
+}
+
 /* Utilities */
 .container {
-  max-width: 1100px;
+  max-width: 1280px;
   margin: 0 auto;
   overflow: auto;
   padding: 0 40px;
