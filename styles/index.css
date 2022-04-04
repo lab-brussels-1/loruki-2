@@ -282,6 +282,7 @@ img {
 
 .languages h2 {
   font-weight: bold;
+  padding-top: 35px;
 }
 
 .container .languages {
@@ -320,6 +321,16 @@ img {
 /* Cloud section */
 .cloud .grid {
   grid-template-columns: 4fr 3fr;
+}
+
+.cloud img {
+  width: 300px;
+  height: 300px;
+  object-fit: scale-down;
+}
+
+.image-center {
+  padding-left: 90px;
 }
 
 /* Backgrounds & colored buttons */
