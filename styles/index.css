@@ -238,9 +238,6 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
-/* Languages */
-.languages .flex {
-  flex-wrap: wrap;
 /* Accounts */
 .accounts {
   padding-top: 100px;
@@ -273,8 +270,16 @@ img {
   color: grey;
 }
 
-/* Utilities */
-.container {
+/* Languages */
+.languages .flex {
+  flex-wrap: wrap;
+}
+
+.languages h2 {
+  font-weight: bold;
+}
+
+.container .languages {
   max-width: 1280px;
   margin: 0 auto;
   overflow: auto;
