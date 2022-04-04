@@ -101,6 +101,13 @@ img {
   margin: 4rem;
 }
 
+.accounts a {
+  color: #047aed;
+  padding: 10px;
+  margin: 0 5px;
+  font-weight: bold;
+}
+
 /* navbar */
 .navbar {
   background-color: var(--primary-color);
@@ -215,6 +222,11 @@ img {
 .accounts .grid p {
   font-size: 20px;
   font-weight: bold;
+}
+
+.accounts a:hover {
+  text-decoration: underline;
+  color: grey;
 }
 
 /* Utilities */
