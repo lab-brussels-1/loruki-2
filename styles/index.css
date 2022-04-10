@@ -77,10 +77,6 @@ img {
   transform: scale(0.98);
 }
 
-.text-center {
-  text-align: center;
-}
-
 .flex {
   display: flex;
   justify-content: center;
@@ -97,51 +93,6 @@ img {
   height: 100%;
 }
 
-.grid-3 {
-  grid-template-columns: repeat(3, 1fr);
-}
-
-/* Margin */
-.my-1 {
-  margin: 1rem 0;
-}
-
-.my-2 {
-  margin: 1.5rem 0;
-}
-
-.my-3 {
-  margin: 2rem 0;
-}
-
-.my-4 {
-  margin: 3rem 0;
-}
-
-.my-5 {
-  margin: 4rem 0;
-}
-
-.m-1 {
-  margin: 1rem;
-}
-
-.m-2 {
-  margin: 1.5rem;
-}
-
-.m-3 {
-  margin: 2rem;
-}
-
-.m-4 {
-  margin: 3rem;
-}
-
-.m-5 {
-  margin: 4rem;
-}
-
 .accounts a {
   color: #047aed;
   padding: 10px;
@@ -149,7 +100,7 @@ img {
   font-weight: bold;
 }
 
-/* for footer */
+/* links */
 .bg-primary a,
 .btn-primary a,
 .bg-secondary a,
@@ -253,14 +204,47 @@ img {
   -ms-transform: skewY(-3deg);
 }
 
-/* Accounts */
-.accounts {
+/* stats section */
+.stats {
   padding-top: 100px;
-  animation: slideInFromBottom 1s ease-in;
+}
+
+.stats-heading {
+  max-width: 500px;
+  margin: auto;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
 }
 
 .accounts p {
   text-align: center;
+}
+
+.stats .grid p {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Utilities */
+.container1 {
+  max-width: 1700px;
+  padding: 0%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+/* Accounts */
+.accounts {
+  padding-top: 100px;
+  animation: slideInFromBottom 1s ease-in;
 }
 
 .accounts-heading {
@@ -370,7 +354,7 @@ img {
 
 /* Footer */
 .footer .social a {
-  margin: 0 10px;
+  margin: 0 0;
 }
 
 /* Text sizes */
